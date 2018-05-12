@@ -1,0 +1,31 @@
+/*#sp-header-1 p a{
+	border-right : 1px solid #333;
+}*/
+
+#sp-header-1 > ul li:hover{
+	color: #555;
+    background-color: #e7e7e7;
+}
+
+.navbar-default{
+	background-color: #fff;
+}
+
+nav#sp-nav-menu{
+	border-color: #fff;
+}
+
+ul#social-links{
+	margin: 5px 0px 0px 0px;
+	list-style-type: none;
+}
+
+ul#social-links li{
+	display: inline;
+	padding: 0px 5px 0px 5px;
+
+}
+
+ul#social-links li a{
+	cursor: pointer;
+}

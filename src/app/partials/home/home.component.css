@@ -1,0 +1,22 @@
+#menu-list > ul li{
+	background-color: grey;
+}
+
+div.box-content{
+	color: grey; 
+	padding: 30px 10px;
+}
+
+.box-content img{
+	float: left;
+	margin-right: 5px;
+}
+
+.box-content div{
+	margin-left: 5px;
+}
+
+.box-heading-1{
+	color: white;
+	text-transform: uppercase;
+}
